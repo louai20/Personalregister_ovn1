@@ -1,4 +1,4 @@
-﻿namespace Övning_1___Personalregister
+﻿namespace Övning_1_Personalregister
 {
     internal class Program
     {
